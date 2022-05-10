@@ -1,5 +1,9 @@
 # Inspired by 'I Gave My Goldfish $50,000 to Trade Stocks'
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/USKD3vPD6ZA/0.jpg)](https://www.youtube.com/watch?v=USKD3vPD6ZA)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=USKD3vPD6ZA" target="_blank">
+   <img src="https://img.youtube.com/vi/USKD3vPD6ZA/0.jpg" alt="Watch the video" width="640" height="480" border="10" />
+  </a>
+</p>
 
 
 # Reddit-Webscraper
