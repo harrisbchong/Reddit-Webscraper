@@ -8,4 +8,4 @@
 
 # Reddit-Webscraper
 
-Simple Webscraper that scrapes the top weekly posts on r/CryptoCurrency. The script exports the post's data into either a Negative Posts.csv or Positive Posts.csv file based on a surface level sentiment analysis word bank, and also returns a list of scraped stock names to look for in the terminal. Helpful for keeping updated on crypto news and a basic general consensus on different coins.
+Simple Webscraper with PRAW (Python Reddit Api Wrapper) that scrapes the top weekly posts on r/CryptoCurrency. The script exports the post's data into either a Negative Posts.csv or Positive Posts.csv file based on a surface level sentiment analysis word bank, and also returns a list of scraped stock names to look for in the terminal. Helpful for keeping updated on crypto news and a basic general consensus on different coins.
